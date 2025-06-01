@@ -1,6 +1,3 @@
-# Contact-Management-System
-command line based cms system developed in c++
-
 # Contact Management System (CMS) - C++
 
 [Contact Management System] <!-- Add actual screenshot if available -->
