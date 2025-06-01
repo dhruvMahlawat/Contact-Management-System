@@ -1,7 +1,5 @@
 # Contact Management System (CMS) - C++
 
-[Contact Management System] <!-- Add actual screenshot if available -->
-
 A console-based application to manage contacts efficiently with persistent storage. Features include adding, viewing, searching, editing, and deleting contacts with phone number validation.
 
 ## Features
